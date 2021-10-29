@@ -103,11 +103,11 @@ main img.pequena {
 
 main > article > h1 {
     font-family: var(--font-idroid);
-    font-size: 1.45em;
+    font-size: 1.35em;
     background-color: var(--cor01);
     color: var(--cor04);
-    width: 478px;
-    padding: 4px;
+    width: 471px;
+    padding: 3px;
     border-radius: 2px;
 }
 
@@ -130,13 +130,13 @@ main > article > p {
 }
 
 #hid1 {
-    width: 289px;
+    width: 284px;
     padding: 3px;
     border-radius: 3px;
 }
 
 #hid2 {
-    width: 387px;
+    width: 377px;
     padding: 3px;
     border-radius: 3px;
 }
