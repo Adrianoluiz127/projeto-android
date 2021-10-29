@@ -107,7 +107,7 @@ main > article > h1 {
     background-color: var(--cor01);
     color: var(--cor04);
     width: 351px;
-    padding: 2px;
+    padding: 1px;
     border-radius: 2px;
 }
 
