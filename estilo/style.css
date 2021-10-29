@@ -103,10 +103,10 @@ main img.pequena {
 
 main > article > h1 {
     font-family: var(--font-idroid);
-    font-size: 1.1em;
+    font-size: 1.04em;
     background-color: var(--cor01);
     color: var(--cor04);
-    width: 351px;
+    width: 327px;
     padding: 1px;
     border-radius: 2px;
 }
