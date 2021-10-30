@@ -39,7 +39,7 @@ body {
 }
 
 header {
-    height: 150px;
+    height: 160px;
     background-image: linear-gradient(var(--cor02), var(--cor04));
 }
 
@@ -61,15 +61,15 @@ header > p {
 }
 
 header > nav {
-    margin-top: -1px;
-    margin-left: 20px;
+    margin-top: 25px;
+    margin-left: 15px;
 }
 
 header > nav > a {
     font-weight: bold;
     text-decoration: none;
     color: var(--cor00);
-    margin-right: 20px;
+    margin-right: 8px;
 }
 
 header > nav > a:hover {
