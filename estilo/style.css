@@ -52,7 +52,6 @@ header > h1 {
 }
 
 header > p {
-    margin-top: 3px;
     font-family: var(--font-bebas);
     color: white;
     text-align: center;
@@ -61,7 +60,7 @@ header > p {
 }
 
 header > nav {
-    margin-top: 25px;
+    margin-top: 21px;
     margin-left: 15px;
 }
 
@@ -74,7 +73,7 @@ header > nav > a {
 
 header > nav > a:hover {
     background-color: var(--cor03);
-    padding: 8px;
+    padding: 6px;
     border-radius: 3px;
     color: var(--cor05);
     text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.39);
