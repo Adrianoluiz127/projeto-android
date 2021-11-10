@@ -55,7 +55,7 @@ header > p {
     font-family: var(--font-bebas);
     color: white;
     text-align: center;
-    font-size: 1.3em;
+    font-size: 1.18em;
     font-weight: normal;
 }
 
@@ -102,7 +102,7 @@ main img.pequena {
 
 main > article > h1 {
     font-family: var(--font-idroid);
-    font-size: 1.5em;
+    font-size: 1.35em;
     color: var(--cor04);
 }
 
